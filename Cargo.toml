@@ -1,0 +1,9 @@
+[package]
+name = "hello-world"
+version = "0.1.0"
+authors = ["jnve11"]
+
+[dependencies]
+
+[lib]
+crate-type = ["cdylib"]
